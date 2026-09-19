@@ -1,0 +1,6 @@
+assets/images/special
+__pycache__/
+*.py[cod]
+.venv/
+.env
+highscore.txt
